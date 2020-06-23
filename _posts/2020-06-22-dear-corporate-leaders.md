@@ -9,7 +9,7 @@ tags:
   - BLM
 ---
 
-**You don't know how to talk about Race.**  
+**\...You don't know how to talk about Race.**  
 
 It is an understatement to say that the past few weeks in America have been tumultuous.  [We are living in historic times](https://www.theatlantic.com/politics/archive/2020/06/todays-protest-movements-are-as-big-as-the-1960s/613207/)  made possible by a worsening and politicized pandemic and subsequent economic depression. The video of George Floyd’s murder sparked nationwide protests that have set off a nation-wide moment of self-reflection as  [we grapple with our own complicity in an abusive and racist system.](https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html)
 
@@ -40,11 +40,14 @@ If you think the phrase “black lives matter” is too political for your workp
 Of course, this will be difficult. Your organization’s muscle memory will reflexively kick in and you will want to avoid political controversy. Myles Udland wrote about this well in his [latest newsletter](https://mylesudland.substack.com/p/corporate-americas-politics-of-no),
 
 >The politics of no politics that pervades corporate America hinges on the assumption that all political views contain equal parts right and wrong, a classic both sides construction all readers will recognize. And this view argues that conviction on an issue — any issue — should be respected on the basis of the conviction alone. Passing judgement on someone else’s stance is cowardly, taking a stand is heroic, and who are you (we) to say what’s right and wrong anyway?  
-…  
-Back in 2016, Taylor Swift [famously said](https://www.buzzfeed.com/sarahburton/taylor-swifts-i-would-very-much-like-to-be-excluded-from-thi): “I would very much like to be excluded from this narrative, one that I have never asked to be a part of, since 2009.”  
-I think about Swift’s statement all the time.  
-It offers such a succinct summation of the apolitical stance that so many people and institutions of privilege were taught to take. If the politics make you uncomfortable, just declare yourself apolitical. Problem solved.  
-But we do not live in an apolitical world. Having “no political views” is the most popular brand of politics for those made uncomfortable by what has broken their way, by what they’ve never had to confront, by the profits they’ve earned off the suffering of others. And yet this “no view” political position is a highly political stance.
+>…  
+>Back in 2016, Taylor Swift [famously said](https://www.buzzfeed.com/sarahburton/taylor-swifts-i-would-very-much-like-to-be-excluded-from-thi): “I would very much like to be excluded from this narrative, one that I have never asked to be a part of, since 2009.”  
+>
+>I think about Swift’s statement all the time.  
+>
+>It offers such a succinct summation of the apolitical stance that so many people and institutions of privilege were taught to take. If the politics make you uncomfortable, just declare yourself apolitical. Problem solved.  
+>
+>But we do not live in an apolitical world. Having “no political views” is the most popular brand of politics for those made uncomfortable by what has broken their way, by what they’ve never had to confront, by the profits they’ve earned off the suffering of others. And yet this “no view” political position is a highly political stance.
 
 ## Burdening your black employees
 
