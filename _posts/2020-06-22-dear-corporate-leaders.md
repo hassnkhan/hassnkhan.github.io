@@ -9,7 +9,7 @@ tags:
   - BLM
 ---
 
-# You don't know how to talk about Race
+**... You don't know how to talk about Race**
 
 It is an understatement to say that the past few weeks in America have been tumultuous.  [We are living in historic times](https://www.theatlantic.com/politics/archive/2020/06/todays-protest-movements-are-as-big-as-the-1960s/613207/)  made possible by a worsening and politicized pandemic and subsequent economic depression. The video of George Floyd’s murder sparked nationwide protests that have set off a nation-wide moment of self-reflection as  [we grapple with our own complicity in an abusive and racist system.](https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html)
 
