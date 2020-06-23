@@ -1,5 +1,5 @@
 ---
-title: Dear Corporate Leaders
+title: Corporate America Talks Race
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -8,14 +8,13 @@ tags:
   - America
   - BLM
 ---
-
-**\...You don't know how to talk about Race.**  
-
 It is an understatement to say that the past few weeks in America have been tumultuous.  [We are living in historic times](https://www.theatlantic.com/politics/archive/2020/06/todays-protest-movements-are-as-big-as-the-1960s/613207/)  made possible by a worsening and politicized pandemic and subsequent economic depression. The video of George Floyd’s murder sparked nationwide protests that have set off a nation-wide moment of self-reflection as  [we grapple with our own complicity in an abusive and racist system.](https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html)
 
 Corporations, and their leaders, have also had their role in this sytem cast under a glaring spotlight and have been unable to stay silent. In what feels like a watershed moment, many have made  [more direct statements than one would have expected possible](https://www.nytimes.com/2020/05/31/business/media/companies-marketing-black-lives-matter-george-floyd.html) . I am partial to  [the words of Ben and Jerry (yes, the ice cream company)](https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy) myself. While corporations have been more direct than in years past, the conversations within the office (or, well, on Zoom calls) reveal a corporate culture that still has much to learn on matters of race and inclusion.
 
 *A little context before I go further: the points below are a result of both my own experiences the last few weeks as an employee in corporate America and reflections based on conversations I’ve had with friends about the response of our respective employers to the murders of George Floyd, Breonna Taylor, and so many others. I share them not in the spirit of finger pointing but of constructive criticism.*
+
+# Dear Corporate Leaders: You don't know how to talk about Race
 
 First, the hard truth. Lots of leaders are not performing well in this moment. I have numerous examples of cringe-worthy company-wide town halls from friends who have been disappointed with the language and approach taken by their leadership. I’m going to group some of the examples into a few themes below and share recommendations that are wholly my own (and thus incomplete) but I hope they’re a starting point for introspection and discussion.
 
