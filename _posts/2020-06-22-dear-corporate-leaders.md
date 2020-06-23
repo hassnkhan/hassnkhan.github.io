@@ -10,7 +10,6 @@ tags:
 ---
 
 **... You don't know how to talk about Race**
-
 It is an understatement to say that the past few weeks in America have been tumultuous.  [We are living in historic times](https://www.theatlantic.com/politics/archive/2020/06/todays-protest-movements-are-as-big-as-the-1960s/613207/)  made possible by a worsening and politicized pandemic and subsequent economic depression. The video of George Floyd’s murder sparked nationwide protests that have set off a nation-wide moment of self-reflection as  [we grapple with our own complicity in an abusive and racist system.](https://www.nytimes.com/2020/06/05/books/antiracism-books-race-racism.html)
 
 Corporations, and their leaders, have also had their role in this sytem cast under a glaring spotlight and have been unable to stay silent. In what feels like a watershed moment, many have made  [more direct statements than one would have expected possible](https://www.nytimes.com/2020/05/31/business/media/companies-marketing-black-lives-matter-george-floyd.html) . I am partial to  [the words of Ben and Jerry (yes, the ice cream company)](https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy) myself. While corporations have been more direct than in years past, the conversations within the office (or, well, on Zoom calls) reveal a corporate culture that still has much to learn on matters of race and inclusion.
