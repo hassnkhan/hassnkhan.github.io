@@ -50,9 +50,9 @@ Of course, this will be difficult. Your organization’s muscle memory will refl
 
 ## Burdening your Black employees
 
-This one is easy. Do not ask your black employees to explain what is happening. It is not their job, unless maybe they are explicitly on staff as diversity and inclusion personnel, to explain systemic racism to your team. If folks want to take on that work themselves, please recognize them for their labor.
+This one is easy. **Do not ask your Black employees to explain what is happening.** It is not their job, unless maybe they are explicitly on staff as diversity and inclusion personnel, to explain systemic racism to your team. If folks want to take on that work themselves, please recognize them for their labor.
 
-My one caveat here is that you absolutely should give black employees a platform to discuss their experiences within the firm. They should be able to have frank discussions with your team about how it has affected them at work, if they wish to do so. It will be an uncomfortable conversation and it may help to experiment with how those conversations are structured (small groups or having a dedicated ombudsman, etc.). This brings me to my last point.
+My one caveat here is that you absolutely should give Black employees a platform to discuss their experiences within the firm. They should be able to have frank discussions with your team about how it has affected them at work, if they wish to do so. It will be an uncomfortable conversation and it may help to experiment with how those conversations are structured (small groups or having a dedicated ombudsman, etc.). This brings me to my last point.
 
 ## Jumping to problem solving
 
