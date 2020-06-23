@@ -33,7 +33,7 @@ Perhaps the clearest sign that the leaders stepping up to speak on issues of rac
 
 You should probably instead discuss that with your therapist or spouse.
 
-## Obfuscating reality in order to remain “apolitical”
+## Remaining “apolitical”
 
 If you think the phrase “black lives matter” is too political for your workplace, ask yourself what that says about our politics. You cannot and should not shed your humanity in service of professional norms. Although some firms are making direct statements, we are overwhelmingly awash in anodyne and cowardly statements from corporations that simply “reject racism.” Even Steve King wouldn’t embrace racism today and he’s the most thinly veiled of white supremacists. You have to go further, your people demand it of you. It’s not a courageous act to bear witness to the truth that’s plain for all of us.
 
