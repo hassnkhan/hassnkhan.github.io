@@ -60,9 +60,7 @@ Nearly every organization has published a list of actions or promises about how 
 
 Please take the time to listen before jumping into solutions mode. Too often the first meeting on these issues was a hastily organized town hall led by a corporate executive that ended with some list of promises cooked up by the executive team. I realize these are well-intentioned efforts but if you’re serious about making a change it will require a more thoughtful process and many more uncomfortable conversations before you zero-in on a better answer.
 
-*                              *                                      *
-
-## So, where do we go?
+# So, where do we go?
 
 My last message is to those of us who aren’t yet leaders. Frankly, we cannot expect the current generation of leaders to have answers to a problem they never spent much time thinking about previously. If they had good answers, we’d already have better solutions . They played by the rules of a different game and it left them unprepared.
 
