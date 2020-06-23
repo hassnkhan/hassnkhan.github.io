@@ -34,7 +34,7 @@ You should probably instead discuss that with your therapist or spouse.
 
 ## Remaining “apolitical”
 
-If you think the phrase “black lives matter” is too political for your workplace, ask yourself what that says about our politics. You cannot and should not shed your humanity in service of professional norms. Although some firms are making direct statements, we are overwhelmingly awash in anodyne and cowardly statements from corporations that simply “reject racism.” Even Steve King wouldn’t embrace racism today and he’s the most thinly veiled of white supremacists. You have to go further, your people demand it of you. It’s not a courageous act to bear witness to the truth that’s plain for all of us.
+If you think the phrase “black lives matter” is too political for your workplace, ask yourself what that says about our politics. You cannot and should not shed your humanity in service of professional norms. Although some firms are making direct statements, we are overwhelmingly awash in anodyne and cowardly statements from corporations that simply “reject racism.” Even [Steve King wouldn’t embrace racism today](https://www.thedailybeast.com/steve-king-im-not-a-racist-and-americans-arent-having-enough-babies) and he’s the most thinly veiled of white supremacists. You have to go further, your people demand it of you. It’s not a courageous act to bear witness to the truth that’s plain for all of us.
 
 Of course, this will be difficult. Your organization’s muscle memory will reflexively kick in and you will want to avoid political controversy. Myles Udland wrote about this well in his [latest newsletter](https://mylesudland.substack.com/p/corporate-americas-politics-of-no),
 
@@ -60,7 +60,7 @@ Nearly every organization has published a list of actions or promises about how 
 
 Please take the time to listen before jumping into solutions mode. Too often the first meeting on these issues was a hastily organized town hall led by a corporate executive that ended with some list of promises cooked up by the executive team. I realize these are well-intentioned efforts but if you’re serious about making a change it will require a more thoughtful process and many more uncomfortable conversations before you zero-in on a better answer.
 
----
+*                              *                                      *
 
 ## So, where do we go?
 
