@@ -58,7 +58,7 @@ Nearly every organization has published a list of actions or promises about how 
 
 Please take the time to listen before jumping into solutions mode. Too often the first meeting on these issues was a hastily organized town hall led by a corporate executive that ended with some list of promises cooked up by the executive team. I realize these are well-intentioned efforts but if you’re serious about making a change it will require a more thoughtful process and many more uncomfortable conversations before you zero-in on a better answer.
 
---------
+---
 
 ## So, where do we go?
 
