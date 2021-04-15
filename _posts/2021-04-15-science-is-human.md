@@ -22,7 +22,7 @@ I understand why Neil - and so many others - share such vociferous faith in the 
 
 First, a paper which I did not appreciate enough when it was first introduced to me my first semester of graduate school is “On Uncertainty in Physical Constraints” by Henrion and Fischhoff (1985).  The killer graph from the paper is below. It shows reported measurements of the speed of light, *c*, and associated error ranges for each measurement. Notice how the measurements cluster into 4 distinct groups. Prior to 1900 all the estimates were too high. In the early 1900s, the estimates were too low and from the 1920s to 1940s far too low.
 
-![Source: Henrion and Fischhoff, 1985](/assets/images/c-measurement.jpg)
+![Source: Henrion and Fischhoff, 1985](/assets/images/c_measurement.jpg)
 
 Look also at the range on the error bars: only 6 of the 13 measurements prior to the late 1940s even had the true value within the standard error range. Instead, it’s clear the scientists were anchoring their estimates on those made by their predecessors. Rather than the popular narrative of scientists always striving for objective truth, we see evidence that scientists were hesitant to stray too far from previously erroneous estimates. This led to ongoing systemic error in estimation until the late 1940s.
 
