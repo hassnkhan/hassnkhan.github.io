@@ -5,8 +5,9 @@ categories:
 tags:
   - science
 ---
-A few days ago Neil deGrasse Tyson tweeted a a paean to Science that was widely panned.
-<blockquote class=“twitter-tweet”><p lang=“en” dir=“ltr”>The good thing about Science is that it’s true, whether or not you believe in it.</p>&mdash; Neil deGrasse Tyson (@neiltyson) <a href=“https://twitter.com/neiltyson/status/1381197292728942595?ref_src=twsrc%5Etfw”>April 11, 2021</a></blockquote> <script async src=“https://platform.twitter.com/widgets.js” charset=“utf-8”></script>
+A few days ago Neil deGrasse Tyson [tweeted a paean to Science](https://twitter.com/neiltyson/status/1381197292728942595) that was widely panned.
+
+[It's a bad take, Neil](/assets/images/ndgt-tweet.jpg)
 
 [He linked to this post in a follow-up tweet as a defense of his views](https://www.haydenplanetarium.org/tyson/commentary/2016-01-23-what-science-is.php). I am going to excerpt a lengthy bit from his piece and discuss several of the ideas further:
 > The scientific method, which underpins these achievements, can be summarized in one sentence, which is all about objectivity:
