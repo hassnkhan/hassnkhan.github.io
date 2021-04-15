@@ -9,7 +9,7 @@ A few days ago Neil deGrasse Tyson [tweeted a paean to Science](https://twitter.
 
 ![It's a bad take, Neil](/assets/images/ndgt-tweet.jpg)
 
-[He linked to this post in a follow-up tweet as a defense of his views](https://www.haydenplanetarium.org/tyson/commentary/2016-01-23-what-science-is.php). I am going to excerpt a lengthy bit from his piece and discuss several of the ideas further:
+[He linked to this post in a follow-up tweet as a defense of his views](https://www.haydenplanetarium.org/tyson/commentary/2016-01-23-what-science-is.php). I'll excerpt a lengthy bit from that piece and discuss several of the ideas further:
 > The scientific method, which underpins these achievements, can be summarized in one sentence, which is all about objectivity:
 
 > **Do whatever it takes to avoid fooling yourself into thinking something is true that is not, or that something is not true that is.**
