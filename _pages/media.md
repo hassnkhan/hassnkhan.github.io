@@ -2,9 +2,10 @@
 title: "Media"
 permalink: /media/
 author_profile: true
+excerpt: "Interviews and media coverage on semiconductors, manufacturing, and industrial policy."
 ---
 
-Media appearances and interviews.
+Selected media appearances and interviews. For inquiries, [email me](mailto:hassnkhan@gmail.com).
 
 - 08/24/2021 [Guest on KQED Forum discussing the semiconductor shortage and possible policy responses](https://www.kqed.org/forum/2010101885107/global-semiconductor-shortage-how-why-and-what-the-u-s-can-do-about-it)
 
