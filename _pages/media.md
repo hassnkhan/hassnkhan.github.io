@@ -7,6 +7,12 @@ excerpt: "Interviews and media coverage on semiconductors, manufacturing, and in
 
 Selected media appearances and interviews. For inquiries, [email me](mailto:hassnkhan@gmail.com).
 
+## Interviews & coverage
+
+- April 23, 2025 — [This Is What President Biden’s CHIPS Office Actually Did](https://podcasts.apple.com/au/podcast/this-is-what-president-bidens-chips-office-actually-did/id1056200096?i=1000704570968), Bloomberg’s *Odd Lots*.
+- April 17, 2025 — [An Interview with Dan Kim and Hassan Khan About CHIPS](https://stratechery.com/2025/an-interview-with-dan-kim-and-hassan-khan-about-chips/), *Stratechery*.
+
+
 - 08/24/2021 [Guest on KQED Forum discussing the semiconductor shortage and possible policy responses](https://www.kqed.org/forum/2010101885107/global-semiconductor-shortage-how-why-and-what-the-u-s-can-do-about-it)
 
 - 06/30/2021 [The impact of the chip shortage on semiconductor innovation, MIT Tech Review](https://www.technologyreview.com/2021/06/30/1026438/global-microchip-shortage-problem-m1-apple-tsmc-intel/)
@@ -14,3 +20,8 @@ Selected media appearances and interviews. For inquiries, [email me](mailto:hass
 - 05/03/2021 [Spoke with Tracy Alloway and Joe Weisenthal on Bloomberg's Odd Lots podcast about policy approaches to reinvigorating the US semiconductor industry](https://www.bloomberg.com/news/articles/2021-05-03/how-to-make-the-u-s-semiconductor-industry-boom-again)
 
 - 10/12/2020 [The prospect of bringing manufacturing back to the US, Barron's](https://www.barrons.com/articles/the-american-dream-reshoring-manufacturing-51602270001)
+
+
+## Talks & panels
+
+- June 13, 2024 — [Past and Future of the Semiconductor Industry](https://www.industrystudies.org/news/2024-conference-recap), Industry Studies Association Annual Conference, Sacramento. Panel with Rob Leachman, moderated by Elisabeth Reynolds.

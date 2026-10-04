@@ -1,22 +1,25 @@
-/* Small overrides; the Minimal Mistakes dark theme remains the foundation. */
+/* Preserve the Minimal Mistakes dark theme; keep the homepage text-only. */
 .hk-home .page { float: none; width: 100%; padding-right: 0; }
-.hk-home .page__inner-wrap { max-width: 1080px; margin-inline: auto; }
-.hk-home .page__title { font-size: 1.2rem; margin-bottom: 1.5rem; }
-.hk-intro { display: grid; grid-template-columns: minmax(0, 1fr) 240px; gap: 3rem; align-items: center; padding-bottom: 2rem; }
-.hk-intro p { max-width: 40rem; }
-.hk-intro .hk-lead { font-size: clamp(1.75rem, 3.8vw, 2.75rem); line-height: 1.2; font-weight: 700; letter-spacing: -0.025em; margin-top: 0; }
-.hk-portrait { width: 240px; height: 240px; object-fit: cover; border-radius: 50%; }
-.hk-links { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
-.hk-links a { display: inline-block; padding-block: 0.5rem; }
-.hk-section { max-width: 48rem; margin-top: 1.5rem; }
-.hk-work { padding-block: 1.1rem; border-bottom: 1px solid #60666c; }
-.hk-work h3 { margin: 0 0 0.5rem; line-height: 1.4; }
-.hk-work p { margin-bottom: 0; }
-.hk-work .hk-label { color: #bdc4cc; font-size: 0.8rem; margin-bottom: 0.5rem; }
+.hk-home .page__inner-wrap { max-width: 42rem; margin-inline: auto; padding-block: clamp(1rem, 5vh, 3rem); }
+.hk-home .page__title { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.2; margin-bottom: 1.5rem; }
+.hk-introduction { max-width: 38rem; line-height: 1.7; }
+.hk-home-links { display: flex; flex-direction: column; align-items: flex-start; gap: 0.3rem; margin-top: 1.5rem; }
+.hk-home-links a { display: inline-flex; align-items: center; min-height: 44px; padding-block: 0.35rem; }
+.hk-writing-list li { margin-bottom: 1rem; }
+.hk-writing-list time { font-size: 0.85rem; color: #c5cbd2; }
 a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid #8ccfee; outline-offset: 4px; }
 .page__content { overflow-wrap: break-word; }
-@media (max-width: 640px) {
-  .hk-intro { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
-  .hk-portrait { width: 144px; height: 144px; }
-  .hk-intro .hk-lead { font-size: 1.8rem; }
+.page__content a { text-underline-offset: 0.15em; }
+.page__footer { color: #c5cbd2; opacity: 1 !important; }
+.page__footer-copyright { font-size: 0.75rem; }
+.page__footer a { color: #c5cbd2; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
+
+/* Keep search discoverable even when the external icon font is unavailable. */
+.search__toggle { width: auto; min-width: 44px; min-height: 44px; }
+.search__toggle::before { content: "Search"; font: inherit; font-size: 0.75rem; }
+.search__toggle .fas { display: none; }
+
+.sidebar { opacity: 1; }
