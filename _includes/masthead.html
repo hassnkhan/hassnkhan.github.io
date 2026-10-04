@@ -1,0 +1,22 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <nav id="site-nav" class="hk-navigation" aria-label="Primary navigation">
+      <a class="hk-site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <div class="hk-desktop-links">
+        {% for link in site.data.navigation.main %}
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        {% endfor %}
+        {% if site.search %}<button class="search__toggle" type="button" aria-label="Search">Search</button>{% endif %}
+      </div>
+      <details class="hk-mobile-menu">
+        <summary aria-label="Navigation menu"><span class="hk-menu-icon" aria-hidden="true"></span><span class="sr-only">Menu</span></summary>
+        <div class="hk-mobile-links">
+          {% for link in site.data.navigation.main %}
+            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          {% endfor %}
+          {% if site.search %}<button class="search__toggle" type="button" aria-label="Search">Search</button>{% endif %}
+        </div>
+      </details>
+    </nav>
+  </div>
+</div>
