@@ -1,14 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "Biography"
 excerpt: "Hassan Khan’s background in semiconductor research, manufacturing, and technology policy."
 ---
 
-My work spans semiconductors, technology, and industrial policy. I am interested in how industries develop new technologies, organize production, and respond to technological change.
+I am currently a Member of Technical Staff at OpenAI on the Compute Strategy team. My work spans semiconductors, technology, and industrial policy.
 
 ## Experience
 
-I served as a Senior Policy Advisor on the Strategy Team at the CHIPS Program Office, U.S. Department of Commerce.
+In 2023, I joined the CHIPS Program Office at the Department of Commerce as a Senior Policy Advisor. From 2024 to 2025, I served as the Director of Economic Security at CHIPS.
 
 Previously, I was a New Product Introduction Operations Program Manager at Apple, where I led operations for the launch of the HomePod mini colors in 2021 and the HomePod in early 2023.
 

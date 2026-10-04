@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://hassnkhan.com"
 baseurl: ""
 locale: en-US
+og_image: /assets/images/social-preview.png
+og_image_alt: "Hassan Khan — Semiconductors, technology, and industrial policy"
 twitter:
   username: hassankhan
 minimal_mistakes_skin: dark
@@ -87,6 +89,12 @@ footer:
       url: "https://instagram.com/hassankhan"
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      header:
+        og_image: /assets/images/social-preview.png
+        og_image_alt: "Hassan Khan — Semiconductors, technology, and industrial policy"
   # _posts
   - scope:
       path: ""
