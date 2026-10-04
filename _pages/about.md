@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Biography"
+title: "About Me"
 excerpt: "Hassan Khan’s background in semiconductor research, manufacturing, and technology policy."
 ---
 
