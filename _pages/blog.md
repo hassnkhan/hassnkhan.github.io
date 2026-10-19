@@ -11,6 +11,12 @@ author_profile: true
 - **[Science and research policy at the end of Moore’s law](https://www.nature.com/articles/s41928-017-0005-9)** — Hassan N. Khan, David A. Hounshell, and Erica R. H. Fuchs. *Nature Electronics* 1, 14–21 (2018). [Request a copy](mailto:hassnkhan@gmail.com).
 - **[Scaling Moore’s Wall: A Public-Private Partnership in Search of a Technological Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2497218)** — Hassan Khan, David A. Hounshell, and Erica R. H. Fuchs. Working paper, revised 2015.
 
+## Employ America
+
+- **[Preventing The Next Shortage: A Framework For Industrial Policy](https://www.employamerica.org/industrial-policy-and-investment/preventing-the-next-shortage-a-framework-for-industrial-policy/)** — Alex Williams, with acknowledged contributions from Hassan Khan. May 14, 2021.
+- **[A Brief History of Semiconductors: How The US Cut Costs and Lost the Leading Edge](https://www.employamerica.org/industrial-policy-and-investment/a-brief-history-of-semiconductors-how-the-us-cut-costs-and-lost-the-leading-edge/)** — Alex Williams and Hassan Khan. March 20, 2021.
+- **[Supplying Demand: The Chip Shortage in Macro Context](https://www.employamerica.org/industrial-policy-and-investment/supplying-demand-the-chip-shortage-in-macro-context/)** — Alex Williams and Skanda Amarnath, with acknowledged contributions from Hassan Khan. March 4, 2021.
+
 ## Doctoral research
 
 My 2017 PhD at Carnegie Mellon examined the policy challenges of funding and finding a successor to silicon CMOS at the end of Moore’s Law. [Research background at Carnegie Mellon](https://engineering.cmu.edu/directory/bios/khan-hassan.html).
