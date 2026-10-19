@@ -9,6 +9,8 @@ Selected media appearances and interviews. For inquiries, [email me](mailto:hass
 
 ## Interviews & coverage
 
+- December 4, 2025 — Quoted in [18,000 Reasons It’s So Hard to Build a Chip Factory in America (external)](https://www.nytimes.com/2025/12/04/business/tsmc-phoenix-fab.html), *The New York Times*, by Peter S. Goodman, on the challenges of building TSMC’s U.S. manufacturing ecosystem.
+
 - April 23, 2025 — [This Is What President Biden’s CHIPS Office Actually Did](https://podcasts.apple.com/au/podcast/this-is-what-president-bidens-chips-office-actually-did/id1056200096?i=1000704570968), Bloomberg’s *Odd Lots*.
 - April 17, 2025 — [An Interview with Dan Kim and Hassan Khan About CHIPS](https://stratechery.com/2025/an-interview-with-dan-kim-and-hassan-khan-about-chips/), *Stratechery*.
 
