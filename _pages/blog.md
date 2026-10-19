@@ -18,6 +18,9 @@ My 2017 PhD at Carnegie Mellon examined the policy challenges of funding and fin
 ## Essays
 
 <ul class="hk-writing-list">
+  <li><a href="https://www.employamerica.org/industrial-policy-and-investment/preventing-the-next-shortage-a-framework-for-industrial-policy/">Preventing The Next Shortage: A Framework For Industrial Policy (external)</a><br>Employ America · <time datetime="2021-05-14">May 14, 2021</time><br>Alex Williams, with acknowledged contributions from Hassan Khan.</li>
+  <li><a href="https://www.employamerica.org/industrial-policy-and-investment/a-brief-history-of-semiconductors-how-the-us-cut-costs-and-lost-the-leading-edge/">A Brief History of Semiconductors: How The US Cut Costs and Lost the Leading Edge (external)</a><br>Employ America · <time datetime="2021-03-20">March 20, 2021</time><br>Alex Williams and Hassan Khan.</li>
+  <li><a href="https://www.employamerica.org/industrial-policy-and-investment/supplying-demand-the-chip-shortage-in-macro-context/">Supplying Demand: The Chip Shortage in Macro Context (external)</a><br>Employ America · <time datetime="2021-03-04">March 4, 2021</time><br>Alex Williams and Skanda Amarnath, with acknowledged contributions from Hassan Khan.</li>
 {% for post in site.posts %}
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><br><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %-d, %Y' }}</time></li>
 {% endfor %}
